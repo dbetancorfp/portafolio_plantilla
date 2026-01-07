@@ -1,0 +1,37 @@
+{
+  "titulo": "Política de Privacidad",
+  "version": "1.0",
+  "fechaActualizacion": "2026-01-06",
+  "responsable": {
+    "nombre": "Responsable del sitio",
+    "email": "contacto@ejemplo.com"
+  },
+  "finalidad": [
+    "Responder a consultas enviadas mediante el formulario de contacto.",
+    "Gestionar comunicaciones relacionadas con la solicitud realizada por la persona usuaria."
+  ],
+  "baseJuridica": [
+    "Consentimiento de la persona interesada al enviar el formulario y aceptar la política de privacidad."
+  ],
+  "datosTratados": ["Nombre", "Correo electrónico", "Asunto", "Mensaje"],
+  "conservacion": [
+    "Los datos se conservarán el tiempo necesario para atender la consulta y, en su caso, durante los plazos legalmente exigibles para atender posibles responsabilidades."
+  ],
+  "destinatarios": [
+    "No se cederán datos a terceros, salvo obligación legal.",
+    "No se realizan transferencias internacionales de datos."
+  ],
+  "derechos": [
+    "Acceso, rectificación y supresión de los datos.",
+    "Limitación u oposición al tratamiento.",
+    "Portabilidad de los datos cuando proceda.",
+    "Retirar el consentimiento en cualquier momento (sin afectar a la licitud del tratamiento previo).",
+    "Reclamar ante la autoridad de control competente (en España, la AEPD)."
+  ],
+  "medidasSeguridad": [
+    "Se aplican medidas técnicas y organizativas razonables para proteger los datos frente a accesos no autorizados, pérdida o alteración."
+  ],
+  "observaciones": [
+    "Este texto es una política general orientativa. Adáptalo a tu realidad (identidad del responsable, proveedor de hosting, herramientas de analítica, envíos de email, etc.)."
+  ]
+}
